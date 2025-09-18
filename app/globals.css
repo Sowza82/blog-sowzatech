@@ -38,7 +38,3 @@ a:hover {
 .animate-fadeIn {
   animation: fadeIn .6s ease-out;
 }
-
-.a {
-  text-decoration: none !important;
-}
