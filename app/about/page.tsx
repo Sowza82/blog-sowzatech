@@ -157,7 +157,7 @@ export default function AboutPage() {
         </div>
       </div>
 
-      {/* Mensagem de Impacto Final */}
+      {/* Mensagem Final */}
       <div className="mt-12 text-center">
         <p className="text-purple-200 text-lg italic">
           &quot;Entre códigos, cafés e momentos em família, sou mãe, dev e

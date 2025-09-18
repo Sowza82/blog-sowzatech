@@ -1,9 +1,3 @@
-// ================================
-// ARQUIVO: app/posts/page.tsx
-// DESCRIÇÃO: Página que lista todos os posts, permitindo toggle
-// entre grid e lista. Ordena posts do mais recente para o mais antigo.
-// ================================
-
 'use client'
 
 import { useState } from 'react'
